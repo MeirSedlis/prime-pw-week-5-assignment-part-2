@@ -1,5 +1,7 @@
-header{
-    background-color: firebrick;
+.page-header{
+    background-color: rgb(87, 21, 21);
+    color: rgb(158, 134, 131);
+    text-align: center;
 }
 
 body{
@@ -8,6 +10,7 @@ body{
 
 .main{
     background-color: lightgray;
+    padding: 1em;
 }
 
 
